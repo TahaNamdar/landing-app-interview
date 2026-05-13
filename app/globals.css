@@ -1,6 +1,6 @@
-@import "../public/fonts/Vazirmatn/Vazirmatn-UI-FD-font-face.css";
-
+@config "../tailwind.config.ts"
 @import "tailwindcss";
+@import "../public/fonts/Vazirmatn/Vazirmatn-UI-FD-font-face.css";
 
 * {
   font-family:
