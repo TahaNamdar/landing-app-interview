@@ -22,7 +22,7 @@ const Hero = () => {
               <p>جهت دریافت مشاوره رایگان با شماره‌ی زیر تماس بگیرید</p>
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                <button className="bg-purple-600 text-white px-6 sm:px-8 py-3 mt-4 md:mt-8 rounded-lg hover:bg-purple-700 transition-all duration-300 font-semibold">
+                <button className="bg-primary text-white px-6 sm:px-8 py-3 mt-4 md:mt-8 rounded-lg transition-all duration-300 font-semibold">
                   دریافت مشاوره
                 </button>
               </div>
